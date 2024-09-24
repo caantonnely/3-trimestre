@@ -1,0 +1,18 @@
+body{
+     background-color: brown;
+     font-family: sans-serif;
+}
+
+
+
+#container{
+    display: flex;
+}
+
+
+.cartao{
+
+
+    margin: irem irem;
+    background-color: bisque;
+}
